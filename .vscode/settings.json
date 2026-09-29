@@ -6,7 +6,7 @@
             "packageManager": "ms-python.python:pip"
         },
         {
-            "path": "main.py",
+            "path": "day-1_project/day-1/main.py",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         }
